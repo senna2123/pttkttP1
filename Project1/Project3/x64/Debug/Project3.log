@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Binh\Project1\Project3\Source.cpp(14,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project3.vcxproj -> D:\Binh\Project1\x64\Debug\Project3.exe
